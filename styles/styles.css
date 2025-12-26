@@ -7,8 +7,12 @@ a{
     color: aqua;
 }
 
-h1,h2 {
+.mid-align{
     text-align: center;
+}
+
+h1,h2 {
+    text-align: left;
 }
 
 #profile-img {
