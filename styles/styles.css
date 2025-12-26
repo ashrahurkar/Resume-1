@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: aqua;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+#profile-img {
+    border-width: 10px;
+    border-color: black;
+    text-align: center;
+}
