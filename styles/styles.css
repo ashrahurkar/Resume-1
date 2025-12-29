@@ -1,20 +1,31 @@
-html{
+html {
     background-color: black;
     color: white;
 }
 
-a{
+a {
     color: aqua;
 }
 
-.mid-align{
+.mid-align {
     text-align: center;
 }
 
-h1,h2 {
+h1 {
+    font-size: 3rem;
     text-align: left;
 }
 
+.name {
+    font-size: 2rem;
+}
+
 #profile-img {
+    float: left;
     text-align: center;
+    border: 2px solid black;
+}
+
+.header-end {
+    clear: both;
 }
